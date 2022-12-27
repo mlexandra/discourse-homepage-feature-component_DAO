@@ -25,6 +25,7 @@ html.homepage-featured-topics {
     margin-top: 1em;
   }
   h2 {
+    font-family: 'Poppins', sans-serif;
     border-bottom: 1px solid $primary-low;
     padding-bottom: 0.5em;
     margin-bottom: 1.5em;
@@ -89,6 +90,7 @@ html.homepage-featured-topics {
       h3 {
         margin: 0;
         padding: 1em 0 1.5em;
+        font-family: 'Poppins', sans-serif;
         font-size: $font-up-2;
         padding: 0.5em 1em 1em 1em a {
           display: -webkit-box;
